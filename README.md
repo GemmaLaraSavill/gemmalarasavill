@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Gemma Lara Savill  
 
-<!--
-**GemmaLaraSavill/gemmalarasavill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Engineer | Android Developer | Generative AI Enthusiast**  
+🌍 Remote-first | Bilingual (EN/ES)  
+📚 Currently completing Udacity’s **Generative AI Nanodegree**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- Passionate about creating technology that improves people’s lives  
+- 10+ years building **apps, websites, and custom solutions** for companies big and small  
+- Strong background in **Android development**, now expanding into **Generative AI**  
+- Sharing my learning journey on my [Blog](https://www.myhappyplace.dev) ✍️  
+
+---
+
+## 🛠️ Tech & Tools  
+- **Languages & Frameworks:** Java, Kotlin, Python, JavaScript  
+- **AI & ML:** Hugging Face, PyTorch, Parameter-Efficient Fine-Tuning (LoRA, PEFT)  
+- **Mobile:** Android (Java/Kotlin), Jetpack, Android Studio  
+- **Other:** Git, REST APIs, SQL, Firebase  
+
+---
+
+## 📂 Featured Projects  
+- [🔗 Applying Parameter-Efficient Fine-Tuning with Hugging Face](https://github.com/GemmaLaraSavill/udacity-genai-project1-lora-finetuning)
+- [🔗 How ChatGPT Study Mode Helped Me Fine-Tune a Foundation Model](https://www.myhappyplace.dev/blog/how-chatgpt-study-mode-helped-me-fine-tune-a-foundation-model/)  
+
+*(more coming soon as I progress through the Nanodegree! 🚀)*  
+
+---
+
+## 🌟 Let’s Connect  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gemma-lara-savill/)
+- 📝 [Blog](https://www.myhappyplace.dev)  
+
+---
+✨ _“Using technology to make people’s lives better.”_  
