@@ -23,9 +23,9 @@
 ---
 
 ## 📂 Featured Projects  
-- [🔗 Applying Parameter-Efficient Fine-Tuning with Hugging Face](https://github.com/GemmaLaraSavill/udacity-genai-project1-lora-finetuning)
-- [🔗 How ChatGPT Study Mode Helped Me Fine-Tune a Foundation Model](https://www.myhappyplace.dev/blog/how-chatgpt-study-mode-helped-me-fine-tune-a-foundation-model/)  
-
+- [🔗 Headline Duel KMP — A Kotlin Multiplatform AI App for Android & iOS](https://github.com/GemmaLaraSavill/headline-duel-kmp)
+- [🔗 Applying Parameter-Efficient Fine-Tuning with Hugging Face — LoRA on AG News](https://github.com/GemmaLaraSavill/udacity-genai-project1-lora-finetuning)
+- [🔗 How ChatGPT Study Mode Helped Me Fine-Tune a Foundation Model — Blog Post](https://www.myhappyplace.dev/blog/how-chatgpt-study-mode-helped-me-fine-tune-a-foundation-model/)
 *(more coming soon as I progress through the Nanodegree! 🚀)*  
 
 ---
