@@ -9,7 +9,8 @@
 ## 🚀 About Me  
 - Passionate about creating technology that improves people’s lives  
 - 10+ years building **apps, websites, and custom solutions** for companies big and small  
-- Strong background in **Android development**, now expanding into **Generative AI**  
+- Strong background in **Android development**, now expanding into **Generative AI**
+- Recently added **Kotlin Multiplatform (KMP)** to my toolkit   
 - Sharing my learning journey on my [Blog](https://www.myhappyplace.dev) ✍️  
 
 ---
@@ -17,7 +18,7 @@
 ## 🛠️ Tech & Tools  
 - **Languages & Frameworks:** Java, Kotlin, Python, JavaScript  
 - **AI & ML:** Hugging Face, PyTorch, Parameter-Efficient Fine-Tuning (LoRA, PEFT)  
-- **Mobile:** Android (Java/Kotlin), Jetpack, Android Studio  
+- **Mobile:** Android (Java/Kotlin), Jetpack, **Kotlin Multiplatform (KMP)**, Android Studio  
 - **Other:** Git, REST APIs, SQL, Firebase  
 
 ---
